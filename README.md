@@ -153,13 +153,13 @@ official landing page for the authoritative version.
 
 The Bangla-SGP team:
 
-| Name | Affiliation (paper) |
-|---|---|
-| Neelavro Saha | Dept. of CSE, BRAC University |
-| Rafi Shahriyar | Dept. of CSE, BRAC University |
-| Nafis Ashraf Roudra | Dept. of CSE, BRAC University |
-| Saadman Sakib | Dept. of CSE, BRAC University |
-| Annajiat Alim Rasel | Dept. of CSE, BRAC University |
+| Name | Affiliation (paper) | GitHub |
+|---|---|---|
+| Neelavro Saha | Dept. of CSE, BRAC University | [@neelavro777](https://github.com/neelavro777) |
+| Rafi Shahriyar | Dept. of CSE, BRAC University | [@RafiShahriyar](https://github.com/RafiShahriyar) |
+| Nafis Ashraf Roudra | Dept. of CSE, BRAC University | [@NafisAshraf](https://github.com/NafisAshraf) |
+| Saadman Sakib | Dept. of CSE, BRAC University | |
+| Annajiat Alim Rasel | Dept. of CSE, BRAC University | |
 
 Individual CRediT contribution roles will be recorded in line with the
 authors' own contribution statements (CRediT taxonomy; see CITATION.cff for
