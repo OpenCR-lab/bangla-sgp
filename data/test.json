@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "bsgp-h-0898",
+    "sentence": "গণপরিবহন ব্যবস্থার উন্নয়ন করলে যানজট ও দূষণ কমবে।",
+    "gloss": "গণপরিবহন উন্নত হবে যানজট ও দূষণ কমবে।",
+    "topic": "food",
+    "subtopic": "transportation",
+    "tense": "simple_future",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0899",
+    "sentence": "গত মাসে কেনা তেলটা হয়তো নষ্ট হয়ে গেছে, গন্ধটা ভালো না।",
+    "gloss": "এক মাস আগে তেল কেনা ছিল এটা মনে হয় নষ্ট হয়েছে, গন্ধ ভালো না। ",
+    "topic": "food",
+    "subtopic": "cooking_oil",
+    "tense": "present_perfect",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0900",
+    "sentence": "সেনারা রাতের আঁধারে অভিযান চালিয়েছে, এবং তারা শত্রুদের সরঞ্জাম ধ্বংস করেছে।",
+    "gloss": "সেনা ওরা রাত অভিযান ছিল এবং তারা শত্রুদের সরঞ্জাম ধ্বংস করে।",
+    "topic": "war",
+    "subtopic": "military_operation",
+    "tense": "simple_past",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0901",
+    "sentence": "পেঁয়াজের তীব্র গন্ধে পুরো দোকান ভরে গেছে।",
+    "gloss": "পেঁয়াজ এর গন্ধ তীব্র পুরো দোকান ভরা।",
+    "topic": "food",
+    "subtopic": "vegetables",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0902",
+    "sentence": "গতকাল আমি পাঁচটি পাকা আম কিনেছিলাম।",
+    "gloss": "গতকাল আমি পাচটি পাকা আম কিনা ছিল।",
+    "topic": "food",
+    "subtopic": "fruit_purchase",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0903",
+    "sentence": "গতবারের চেয়ে এই কাঁচা মরিচ অনেক বেশি ঝাল।",
+    "gloss": "আগে ঝাল কম ছিল এখন এই কাঁচা মরিচ ঝাল অনেক বেশি।",
+    "topic": "food",
+    "subtopic": "spice_quality",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0904",
+    "sentence": "আগামী সপ্তাহে বাকি টাকা দেব।",
+    "gloss": "বাকি টাকা আগামী সপ্তাহ দেওয়া হবে।",
+    "topic": "food",
+    "subtopic": "payment",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0905",
+    "sentence": "হত্যাকাণ্ডের স্মৃতি পরিবারকে এখনো কষ্ট দিচ্ছে।",
+    "gloss": "আগে হত্যা ছিল ওই বিষয় স্মৃতি পরিবার তাদেরকে এখনো কষ্ট দেওয়া আছে।",
+    "topic": "crime",
+    "subtopic": "murder_memory",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0906",
+    "sentence": "আমরা অনেক কষ্ট একসাথে পার করেছি।",
+    "gloss": "আমরা জীবন একসাথে অনেক কষ্ট চলা ছিল।",
+    "topic": "family_and_relationships",
+    "subtopic": "shared_experience",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0907",
+    "sentence": "এই নোটটি পুরনো মনে হচ্ছে।",
+    "gloss": "মনে হয় এই নোট পুরাতন।",
+    "topic": "food",
+    "subtopic": "product_quality",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0908",
+    "sentence": "ওয়াই-ফাই কাজ করছে না, অথচ এক ঘণ্টা আগেও ঠিক ছিল।",
+    "gloss": "ওয়াইফাই এখন নাই এক ঘন্টা আগে কাজ ছিল।",
+    "topic": "technology",
+    "subtopic": "internet_connectivity",
+    "tense": "present_continuous",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0909",
+    "sentence": "গত গ্রীষ্মে আমের বাগানে প্রচুর পোকা দেখা গিয়েছিল।",
+    "gloss": "গত গ্রীষ্ম সময় আম বাগান ওখানে অনেক পোকা দেখা ছিল।",
+    "topic": "animal",
+    "subtopic": "insect_observation",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0910",
+    "sentence": "গত বছর একটা ডাকাতির পর লোকেরা বাড়ি ছেড়ে চলে গিয়েছিল।",
+    "gloss": "এক বছর আগে একটি ডাকাত কাজ মানুষ সব ছেড়ে চলে যাওয়া ছিল।",
+    "topic": "crime",
+    "subtopic": "robbery",
+    "tense": "simple_past",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0911",
+    "sentence": "আগামী পহেলা বৈশাখে চারুকলার মিছিল হবে জমজমাট।",
+    "gloss": "আগামী পহেলা বৈশাখ সময় চারু কলা মিছিল অনেক বড় হবে।",
+    "topic": "festivals",
+    "subtopic": "Pohela Boishakh celebration",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0912",
+    "sentence": "স্থানীয় কমিউনিটি নববর্ষের আয়োজন করেছিল।",
+    "gloss": "স্থানীয় কমিউনিটি নববর্ষ আয়োজন করা হয়েছিল।",
+    "topic": "festivals",
+    "subtopic": "নববর্ষ আয়োজন",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0913",
+    "sentence": "ব্যস্ত রাস্তা পার হওয়ার জন্য পথচারী পারাপারটি ব্যবহার করুন।",
+    "gloss": "রাস্তা গাড়ী চলাচল আছে, ওপাড় যাওয়া হবে সাদা সাদা দাগ দিয়ে হাটা যাও।",
+    "topic": "tourism",
+    "subtopic": "road_safety",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0914",
+    "sentence": "ভারতীয় সেনাবাহিনী সীমান্তে নজরদারি বাড়িয়েছে, এবং নতুন প্রযুক্তি ব্যবহার করছে।",
+    "gloss": "ভারত সেনাবাহিনী সীমান্ত এলাকা নজরদারি বাড়ানো হয়েছে এবং নতুন প্রযুক্তি ব্যবহার আছে।",
+    "topic": "war",
+    "subtopic": "military_operations",
+    "tense": "present_perfect",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0915",
+    "sentence": "ভুক্তভোগী মানসিক কষ্টে ভুগছে কারণ তার সব টাকা নিয়ে গেছে।",
+    "gloss": "ভুক্তভোগী মানসিক কষ্ট আছে কারণ তার সব টাকা নিয়ে যাওয়া।",
+    "topic": "crime",
+    "subtopic": "victim",
+    "tense": "present_continuous",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0916",
+    "sentence": "গতকাল পৌনে বারোটায় মুয়াজ্জিন জোহরের আজান দিয়েছিলেন।",
+    "gloss": "গতকাল মুয়াজ্জিন তিনি সময় ১১ঃ৪৫ মিনিট  যোহর নামাজ আযান ছিল।",
+    "topic": "time",
+    "subtopic": "daily_routine",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0917",
+    "sentence": "আমি আমার কুকুরের সঙ্গে খেলতে এবং তাকে নতুন কিছু শেখাতে পছন্দ করি।",
+    "gloss": "আমি আমার কুকুর সাথে খেলা এবং নতুন নতুন বিষয় শিখানো পছন্দ আছে।",
+    "topic": "animal",
+    "subtopic": "pet_interaction",
+    "tense": "simple_present",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0918",
+    "sentence": "সব সময় সিগন্যাল মেনে রাস্তা পার হও, না হলে দুর্ঘটনার শঙ্কা থাকে।",
+    "gloss": "সব সময় রাস্তা সিগন্যাল নিয়ম মানা রাস্তা ওপার যাওয়া নিয়ন শোনা নাই দুর্ঘটনা হতে পারে।",
+    "topic": "accident",
+    "subtopic": "road_safety",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0919",
+    "sentence": "দুপুর তিনটায় ট্রেন ছারবে, তাই পৌনে তিনটার মধ্যে স্টেশনে পোউছাতে হবে আমাদের।",
+    "gloss": "ট্রেন ছাড়ার সময় দুপুর তিনটা তাই আমাদের ২: ৪৫ মিনিট ভিতর ট্রেন স্টেশন যাওয়া হবে।",
+    "topic": "time",
+    "subtopic": "train_schedule",
+    "tense": "simple_future",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0920",
+    "sentence": "আমার দাদা-দাদি একসাথে পঞ্চাশ বছর ধরে আছেন।",
+    "gloss": "আমার দাদা-দাদী একসাথে থাকা আছে ৫০ বছর ধরে।",
+    "topic": "family_and_relationships",
+    "subtopic": "relatives",
+    "tense": "present_perfect_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0921",
+    "sentence": "যেহেতু রাশিয়া কিয়েভে হামলা চালিয়েছে, তাই ইউক্রেন আরও নিষেধাজ্ঞার দাবি জানিয়েছে।",
+    "gloss": "রাশিয়া কিয়েভে হামলা ছিল তাই ইউক্রেন আরো নিষেধাজ্ঞা দাবি জানানো হয়েছে।",
+    "topic": "war",
+    "subtopic": "Russia-Ukraine conflict",
+    "tense": "simple_past",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0922",
+    "sentence": "ভাইয়া তুমি কি আমাকে গণিতের এই প্রশ্নটা বুঝিয়ে দিতে পারবে?",
+    "gloss": "ভাইয়া তুমি আমার অংক বিষয় প্রশ্ন বুঝা দেওয়া পারবে?",
+    "topic": "education",
+    "subtopic": "mathematics_question",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0923",
+    "sentence": "সরকার রাঙ্গামাটিতে ইকো-ট্যুরিজম প্রকল্প চালু করবে।",
+    "gloss": "সরকার রাঙ্গামাটি ওখানে ইকো ট্যুরিজম প্রকল্প কাজ চালু হবে।",
+    "topic": "tourism",
+    "subtopic": "eco-tourism project",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0924",
+    "sentence": "ঠিকমতো নিজের স্বাস্থ্যসেবা না করলে অনেক রোগ ভোগ করতে হতে পারে।",
+    "gloss": "সময় ঠিক ঠিক নিজ স্বাস্থ্যসেবা হয় না পরে অনেক কষ্ট হতে পারে।",
+    "topic": "health_and_disease",
+    "subtopic": "personal_health_care",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0925",
+    "sentence": "অ্যাম্বুলেন্স চালক যানজটে আটকা পড়লেন।",
+    "gloss": "এম্বুলেন্স চালক ওখানে আটকা পড়া।",
+    "topic": "accident",
+    "subtopic": "traffic_jam",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0926",
+    "sentence": "গতকাল রাত শোয়া এগারোটায় বাবা অফিস থেকে ফিরেছিলেন।",
+    "gloss": "গতকাল বাবা অফিস থেকে আসা রাত এগারোটা পনেরো মিনিট।",
+    "topic": "family_and_relationships",
+    "subtopic": "father",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0927",
+    "sentence": "শিল্পী গোষ্ঠী লোকউৎসবে যাত্রাপালা পরিবেশন করে।",
+    "gloss": "শিল্পী গুষ্টি ওরা লোক উৎসব যাত্রাপালা পরিবেশন করে।",
+    "topic": "art",
+    "subtopic": "folk_festival",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0928",
+    "sentence": "কোরবানির ঈদে গরিবদের মাঝে মাংস বিতরণ করা হয়।",
+    "gloss": "কোরবানি ঈদ সময় গরিব মানুষ ওদের বিতর মাংস দেওয়া হয়।",
+    "topic": "festivals",
+    "subtopic": "Eid al-Adha",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0929",
+    "sentence": "পুলিশ সন্দেহভাজনদের ধরতে গিয়ে ভুল মানুষকে নিয়ে গিয়েছিল।",
+    "gloss": "পুলিশ আগে সন্দেহ কয়েকজন ধরা যাওয়া পরে ভুল মানুষ ধরা ছিল।",
+    "topic": "crime",
+    "subtopic": "police_operation",
+    "tense": "simple_past",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0930",
+    "sentence": "দয়া করে আধা কেজি হলুদ দিন।",
+    "gloss": "দয়া করে আধা কেজি হলুদ দিন।",
+    "topic": "food",
+    "subtopic": "grocery_shopping",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0931",
+    "sentence": "শিশুসহ পরিবারগুলোকে অগ্রাধিকার ভিত্তিতে আশ্রয়কেন্দ্রে নেওয়া হয়েছে।",
+    "gloss": "শিশু ও পরিবার অধিকার বেশি আশ্রয় কেন্দ্র ওখানে নেওয়া হয়েছে।",
+    "topic": "natural_disasters",
+    "subtopic": "shelter_management",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0932",
+    "sentence": "ভবিষ্যতে শিক্ষার্থীরা প্রাণী সংরক্ষণ প্রকল্পে অংশ নিতে চাবে।",
+    "gloss": "ভবিষ্যৎ শিক্ষার্থীরা প্রাণি সংরক্ষণ প্রকল্প এটাতে অংশগ্রহণ চাওয়া হবে।",
+    "topic": "education",
+    "subtopic": "student_projects",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0933",
+    "sentence": "গত বছর পাড়ায় সিসিটিভি লাগানোর পর চুরি কমে গিয়েছিল।",
+    "gloss": "এক বছর আগে সিসিটিভি লাগানো পর চুড়ি কম ছিল।",
+    "topic": "crime",
+    "subtopic": "theft prevention",
+    "tense": "past_perfect",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0934",
+    "sentence": "গত সপ্তাহের তুলনায় আজকে ডালের দাম আকাশপাতাল।",
+    "gloss": "এক সপ্তাহ আগে কম আজ ডালের দাম অনেক বেশি।",
+    "topic": "food",
+    "subtopic": "price_comparison",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0935",
+    "sentence": "আমার চাচা বিভিন্ন দেশের কয়েন জমাতে ভালোবাসেন।",
+    "gloss": "আমার চাচা বিভিন্ন দেশ কয়েন।",
+    "topic": "family_and_relationships",
+    "subtopic": "relatives",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0936",
+    "sentence": "বাগান পরিচর‍্যার সময় কী কী সাধারণ ভুল থেকে দূরে থাকা উচিত?",
+    "gloss": "বাগান পরিচর্যার সময় কি কি বিষয় সাবধান দরকার?",
+    "topic": "food",
+    "subtopic": "gardening",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0937",
+    "sentence": "দয়া করে আমাকে বলুন, কীভাবে একটি সুন্দর বাগান তৈরি করা যায়?",
+    "gloss": "প্লিজ আমাকে বলুন কিভাবে একটি সুন্দর বাগান তৈরি হয়?",
+    "topic": "asking_for_information",
+    "subtopic": "gardening",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0938",
+    "sentence": "কর্মীরা দুপুরে লাঞ্চ ব্রেক নিয়েছিলেন।",
+    "gloss": "কর্মী ওরা আগে  দুপুর খাবার বিরতি নেওয়া ছিল।",
+    "topic": "food",
+    "subtopic": "workplace_break",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0939",
+    "sentence": "উপকূলীয় অঞ্চলে সতর্কতা সংকেত ১০ নম্বরে উন্নীত করা হয়েছে।",
+    "gloss": "উপকূল অঞ্চল ওখানে সর্তকতা সংকেত নম্বর দশ বাড়ানো হয়েছে।",
+    "topic": "weather",
+    "subtopic": "coastal_warning",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0940",
+    "sentence": "ক্রিকেট খেলোয়াড়টির হাতে আঘাত হওয়ায় মাস খানিক খেলতে পারবে না।",
+    "gloss": "ক্রিকেট খেলোয়াড় ওর হাত আঘাত পাওয়া এক মাসে সে খেলা বন্ধ থাকবে।",
+    "topic": "sports",
+    "subtopic": "cricket",
+    "tense": "simple_future",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0941",
+    "sentence": "গতকালের বাসি ঝালমুড়ি খেয়ে আমার পেট খারাপ হয়েছে।",
+    "gloss": "কতকাল বাশি ঝাল মুড়ি খাওয়া আমার পেট খারাপ।",
+    "topic": "health_and_disease",
+    "subtopic": "food_poisoning",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0942",
+    "sentence": "আমি কালকে চশমার ফ্রেম বদলাব।",
+    "gloss": "আমি আগামীকাল চশমা ফ্রেম বদলানো হবে।",
+    "topic": "food",
+    "subtopic": "shopping",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0943",
+    "sentence": "আগামী রবিবার চিড়িয়াখানায় পেঙ্গুইন প্রদর্শনী শুরু হবে।",
+    "gloss": "আগামী রবিবার চিড়িয়াখানা ওখানে পেঙ্গুইন দেখানোর শুরু হবে।",
+    "topic": "tourism",
+    "subtopic": "zoo exhibition",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0944",
+    "sentence": "আপনার ধৈর্যের জন্য আমি কৃতজ্ঞ।",
+    "gloss": "আপনি ধৈর্য অনেক আমি কৃতজ্ঞ।",
+    "topic": "family_and_relationships",
+    "subtopic": "gratitude",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0945",
+    "sentence": "গত বছর শীতের মেলায় নকশিকাঁথার চাহিদা বেড়েছিল।",
+    "gloss": "গত বছর শীত সময় মেলাও খানে নকশি কাঁথা নেওয়া-নেওয়া বেশি ছিল।",
+    "topic": "food",
+    "subtopic": "festival_market",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0946",
+    "sentence": "সোজা মাঠের দিকে হাঁটুন।",
+    "gloss": "সোজা মাঠ দিক হাটা যাও।",
+    "topic": "tourism",
+    "subtopic": "directions",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0947",
+    "sentence": "বাসায় মেহমান আসবে দুপুর আড়াইটায় তাই আমার মা এখনই খাবার টেবিল সাজালেন।",
+    "gloss": "বাসা মেহমান আসা আবে দুপুর ২:৩০ মিনিট তাই আমার মা এখনই টেবিল খাবার সাজানো।",
+    "topic": "family_and_relationships",
+    "subtopic": "visitors",
+    "tense": "simple_future",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0948",
+    "sentence": "ভাইয়া তুমি কি আমাকে গণিতের এই প্রশ্নটা বুঝিয়ে দিতে পারবে?",
+    "gloss": "ভাইয়া তুমি আমার অংক বিষয় প্রশ্ন বুঝিয়ে দেওয়া পারবে?",
+    "topic": "education",
+    "subtopic": "mathematics_question",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0949",
+    "sentence": "জেনারেটিভ এআই সৃজনশীল লেখা, ছবি ও সঙ্গীত তৈরি করছে যা আগে অসম্ভব ছিল।",
+    "gloss": "জেনারেটি এ আই সৃজনশীল লেখা ছবি সঙ্গীত কাজ  তৈরি হয়েছে, আগে ছিল না।",
+    "topic": "technology",
+    "subtopic": "generative AI",
+    "tense": "present_continuous",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0950",
+    "sentence": "গোলকিপার বল থামানোর প্রস্তুতি নিচ্ছেন, কিছুক্ষন পরেই পেনাল্টি।",
+    "gloss": "গোলকিপার উনি বল থামানোর চেষ্টা একটু পর প্লেনান্টি হবে।",
+    "topic": "sports",
+    "subtopic": "football",
+    "tense": "present_continuous",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0951",
+    "sentence": "ছিনতাইয়ের ঘটনায় ব্যবসায়ীর ক্ষতি হয়েছে।",
+    "gloss": "ছিনতাই বিষয় ছিল ব্যবসায়ী ওর ক্ষতি হয়েছে।",
+    "topic": "crime",
+    "subtopic": "robbery",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0952",
+    "sentence": "ফুটপাত দখল ও যত্রতত্র দোকান বসানো জনদুর্ভোগ বাড়াচ্ছে।",
+    "gloss": "ফুটপাত দখল ও ইচ্ছা ইচ্ছা দোকান বসানো মানুষ কষ্ট বৃদ্বি।",
+    "topic": "food",
+    "subtopic": "street_vending",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0953",
+    "sentence": "পড়ালেখা ছাড়া উন্নতি অসম্ভব।",
+    "gloss": "পড়ালেখা বাদ উন্নতি হবে না।",
+    "topic": "education",
+    "subtopic": "academic_progress",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0954",
+    "sentence": "যেহেতু রাশিয়া শান্তি আলোচনায় অংশ নিচ্ছে না, তাই ইউক্রেন আন্তর্জাতিক চাপ বাড়ানোর আহ্বান জানিয়েছে।",
+    "gloss": "রাশিয়া শান্তি আলোচনা আসবেনা তাই ইউক্রেন আন্তর্জাতিক চাপ বাড়ানো আহ্বান জানানো।",
+    "topic": "war",
+    "subtopic": "peace_negotiation",
+    "tense": "present_perfect",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0955",
+    "sentence": "ম্যাচ শুরুর আগে আম্পায়াররা পিচ পরিদর্শন করছেন।",
+    "gloss": "ম্যাচ শুরু আগে আম্পায়ার ওরা পীচ পরিদর্শন এখন আছে।",
+    "topic": "sports",
+    "subtopic": "cricket",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0956",
+    "sentence": "এই জায়গাটা তোমার কেমন লাগছে?",
+    "gloss": "এই জায়গা তোমার কেমন? ভালো মন্দ?",
+    "topic": "asking_for_information",
+    "subtopic": "opinion_request",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0957",
+    "sentence": "বাংলাদেশ সরকার পর্যটন শিল্পের উন্নয়নে নানা পদক্ষেপ নিয়েছে।",
+    "gloss": "বাংলাদেশ সরকার পর্যটন উন্নয়ন জন্য নানান পদক্ষেপ নেওয়া আছে।",
+    "topic": "tourism",
+    "subtopic": "tourism_industry_development",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0958",
+    "sentence": "গতকাল দুর্গাপূজার ছুটিতে আমি আমার বন্ধুদের সঙ্গে ক্রিকেট খেলেছি।",
+    "gloss": "গতকাল দূর্গা পূজা ছুটি ছিল আমি আমার বন্ধু ওদের  সঙ্গে ক্রিকেট খেলা ছিল।",
+    "topic": "festivals",
+    "subtopic": "Durga Puja holiday",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0959",
+    "sentence": "শিক্ষার্থীদের পড়াশোনা ছাড়াও খেলার সুযোগ দেওয়া জরুরি।",
+    "gloss": "শিক্ষার্থীদের পড়ালেখা ও খেলাধুলা অসুবিধা দেওয়া উচিত।",
+    "topic": "education",
+    "subtopic": "student_activities",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0960",
+    "sentence": "সাজেকের সবুজ পাহাড় পর্যটকদের মনে একধরনের প্রশান্তি এনে দেয়।",
+    "gloss": "সাজেক ওখানে সবুজ পাহাড় পর্যটক ওরা দেখা মন প্রশান্তি হয়।",
+    "topic": "tourism",
+    "subtopic": "Sajek Valley",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0961",
+    "sentence": "ভোরবেলা আমরা খামারের গরুগুলোর দুধ দোহন করি।",
+    "gloss": "সময় বর আমরা খামার ওখানে গরু এগুলো দুধ হয়।",
+    "topic": "food",
+    "subtopic": "dairy_farming",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0962",
+    "sentence": "গত বছর একটা বড় দুর্নীতির মামলা ধরা পড়েছিল।",
+    "gloss": "এক বছর আগে একটি বড় দুর্নীতি মামলা ধরা ছিল।",
+    "topic": "crime",
+    "subtopic": "corruption_case",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0963",
+    "sentence": "হিসাবরক্ষক খরচের রিপোর্ট প্রস্তুত করেছিলেন, সব ঠিকঠাক আছে।",
+    "gloss": "হিসাব রক্ষক উনি আগে খরচ হিসাব রিপোর্ট লেখা ছিল? সব ঠিক আছে।",
+    "topic": "food",
+    "subtopic": "accounting",
+    "tense": "past_perfect",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0964",
+    "sentence": "পরিবেশগত সংকটে ভবিষ্যৎ প্রজন্মের জন্য টিকে থাকা কঠিন হবে।",
+    "gloss": "পরিবেশ সমস্যা ভবিষ্যৎ প্রজন্ম থাকা কঠিন হবে।",
+    "topic": "health_and_disease",
+    "subtopic": "environmental_crisis",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0965",
+    "sentence": "বাউন্ডারি লাইনে ফিল্ডার দাঁড়িয়ে আছেন।",
+    "gloss": "খেলার মাঠ বাউন্ডারি ওখানে খেলোয়াড় দাড়ানো আছে।",
+    "topic": "sports",
+    "subtopic": "cricket",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0966",
+    "sentence": "এবার সরকার থেকে ১০ দিনের ঈদের ছুটি ঘোষণা করা হয়েছে।",
+    "gloss": "এবার সরকার ঈদ ছুটি ১০ দিন ঘোষণা হয়েছে।",
+    "topic": "holiday",
+    "subtopic": "eid_holiday",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0967",
+    "sentence": "গত সপ্তাহে পাকিস্তান দল দক্ষিণ আফ্রিকার বিপক্ষে ৩০০ রান করেছিল।",
+    "gloss": "এক সপ্তাহ আগে পাকিস্তান আফ্রিকা প্রতিযোগিতা খেলা ছিল, ওখানে পাকিস্তান ৩০০ রান ছিল।",
+    "topic": "sports",
+    "subtopic": "cricket",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0968",
+    "sentence": "রাশিয়া ক্ষেপণাস্ত্র ছুড়েছে, এবং কয়েকটি আটকানো হয়েছে।",
+    "gloss": "রাশিয়া ওরা ক্ষেপণাস্ত্র ছোড়া এবং কয়েকটি টানো  আটকানো হয়েছে।",
+    "topic": "war",
+    "subtopic": "missile_attack",
+    "tense": "simple_past",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0969",
+    "sentence": "অব্যাহত বর্ষণে নদীর পানি দ্রুত বাড়ছে।",
+    "gloss": "বৃষ্টি আবার আবার নদী পানি দ্রুত বাড়া",
+    "topic": "bangladesh_seasons",
+    "subtopic": "monsoon_rainfall",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0970",
+    "sentence": "নদী দখল ও দুষণের বিরুদ্ধে সামাজিক আন্দোলন গড়ে উঠেছে।",
+    "gloss": "নদী দখল ও দূষণ বন্ধ জন্য সামাজিক আন্দোলন আস্তে আস্তে বৃদ্ধি আছে।",
+    "topic": "crime",
+    "subtopic": "environmental_protection",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0971",
+    "sentence": "পরিবেশ রক্ষা করতে হলে সরকার, সমাজ ও ব্যক্তি—সবাইকে একযোগে কাজ করতে হবে।",
+    "gloss": "পরিবেশ রক্ষা দরকার সরকার সমাজ ও ব্যক্তি একসাথে কাজ করতে হবে।",
+    "topic": "natural_disasters",
+    "subtopic": "environmental_protection",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0972",
+    "sentence": "দোকানে ডাকাতি হয়ার পর দোকানদার এখন ব্যবসা বন্ধ করতে চায়।",
+    "gloss": "দোকান ভিতর ডাকাতি পর দোকানদার এখন ব্যবসা বন্ধু চায়।",
+    "topic": "crime",
+    "subtopic": "robbery",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0973",
+    "sentence": "গতকাল হকাররা রাস্তায় পণ্য বিক্রি করছিল, আজকে তাদের দেখছি না।",
+    "gloss": "গতকাল ওরা রাস্তা এখানে পণ্য  বিক্রি ছিল, এখন তাদের দেখা নাই। ",
+    "topic": "food",
+    "subtopic": "street_vendors",
+    "tense": "past_continuous",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0974",
+    "sentence": "শিশু মেলায় আগামীকাল পরিবেশ বাঁচানোর পাপেট শো প্রদর্শিত হবে।",
+    "gloss": "শিশুমেলা ওখানে আগামীকাল পরিবেশ রক্ষা বিষয় নাটক অনুষ্ঠান হবে।",
+    "topic": "festivals",
+    "subtopic": "children's fair",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0975",
+    "sentence": "যদি তুমি খেতে না চাও, তাহলে প্লেট টা রেখে দাও।",
+    "gloss": "তুমি খাওয়া চাওয়া না প্লেট রাখা দাও।",
+    "topic": "family_and_relationships",
+    "subtopic": "daily_life",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0976",
+    "sentence": "আগামী মাসে তেলের দাম বাড়তে পারে।",
+    "gloss": "আগামী মাস তেল দাম বাড়ানো হতে পারে।",
+    "topic": "food",
+    "subtopic": "fuel_price",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0977",
+    "sentence": "ঢাকার ফার্মগেট এলাকায় রাস্তা পার হওয়ার সময় একটি প্রাইভেট কারের ধাক্কায় এক পথচারী নিহত হন।",
+    "gloss": "ঢাকা ফার্মগেট এলাকা একজন রাস্তা পার সময় প্রাইভেট কার ধাক্কা পথচারী মারা।",
+    "topic": "accident",
+    "subtopic": "road_accident",
+    "tense": "simple_past",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0978",
+    "sentence": "স্পটিফাই অ্যাপটি গান শোনার প্যাটার্ন ধরেই নতুন প্লেলিস্ট বানিয়ে দেয়।",
+    "gloss": "স্পটিফাই অ্যাপ এটি গান শোনা বিষয় ধরা নতুন প্লেলিস্ট বানানো দেয়।",
+    "topic": "technology",
+    "subtopic": "music_app",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0979",
+    "sentence": "আপনি কেন বাগান করতে পছন্দ করেন?",
+    "gloss": "আপনি বাগান পছন্দ কেন?",
+    "topic": "asking_for_information",
+    "subtopic": "preferences",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0980",
+    "sentence": "কৃষক গত সপ্তাহে ঘোড়ার সাহায্যে জমি চাষ করেছিলেন।",
+    "gloss": "কৃষক গত সপ্তাহ ঘোড়া সাহায্য জমি চাষ হয়েছিল।",
+    "topic": "food",
+    "subtopic": "farming",
+    "tense": "past_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0981",
+    "sentence": "আমরা বাবার অফিসের উদ্যোগে আগামী মাসে বান্দরবনে ভ্রমণে যাচ্ছি।",
+    "gloss": "আমরা বাবা দায়িত্ব থেকে আগামী মাস সুন্দরবন ভ্রমণ যাওয়া হবে।",
+    "topic": "tourism",
+    "subtopic": "travel_plans",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0982",
+    "sentence": "এই সমুচা গরম আছে?",
+    "gloss": "এই সমুচা গরম?",
+    "topic": "food",
+    "subtopic": "food_temperature",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0983",
+    "sentence": "গ্রামে শরৎকালীন পিঠার মেলা শুরু হয়েছে।",
+    "gloss": "গ্রাম ওখানে শরৎ সময় পিঠা মেলা শুরু হয়েছে।",
+    "topic": "festivals",
+    "subtopic": "seasonal_festival",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0984",
+    "sentence": "যখন নবান্ন উৎসব পালন করা হয়, তখন কৃষকরা নতুন ধানের পিঠা বানায়।",
+    "gloss": "নবান্ন উৎসব পালন হবে তখন কৃষক ওরা নতুন ধান এটার পিঠা বানানো হয়।",
+    "topic": "festivals",
+    "subtopic": "নবান্ন উৎসব",
+    "tense": "simple_present",
+    "type": "complex",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0985",
+    "sentence": "গত রাতে শিয়ালের ডাক পুরো গ্রাম শুনতে পেয়েছে।",
+    "gloss": "গতকাল রাত শিয়াল ডাকা পুরো গ্রাম শোনা পেয়েছে।",
+    "topic": "animal",
+    "subtopic": "wildlife_sounds",
+    "tense": "present_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0986",
+    "sentence": "গত রাতে আমাদের এলাকায় ডাকাতি হয়েছিল।",
+    "gloss": "গতকাল রাত আমাদের এলাকা ডাকাতি ছিল।",
+    "topic": "crime",
+    "subtopic": "robbery",
+    "tense": "past_perfect",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0987",
+    "sentence": "ইউক্রেনীয় সৈন্যরা শত্রু বাহিনীকে পিছনে ঠেলেছে, কিন্তু কিছু এলাকা এখনো বিরোধপূর্ণ রয়ে গেছে।",
+    "gloss": "ইউক্রেনীয় সৈন্যরা শত্রুবাহিনী ওদেরকে চলে  যাওয়া হয়েছে কিন্তু এখনো এলাকা বিরোধ আছে।",
+    "topic": "war",
+    "subtopic": "battle",
+    "tense": "simple_past",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0988",
+    "sentence": "লালমনিরহাটে বাসের টায়ার ফেটে গেলে বাসটি উল্টে যায় এবং বেশ কয়েকজন যাত্রী আহত হন।",
+    "gloss": "লালমনিরহাট ওখানে বাস টায়ার ফাটা পরে বাস উল্টা এবং কয়েকজন আহত আছে।",
+    "topic": "accident",
+    "subtopic": "road_accident",
+    "tense": "simple_present",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0989",
+    "sentence": "আমি আগামীকাল মুরগির মাংস আনব।",
+    "gloss": "আমি আগামীকাল মুরগি মাংস আনা হবে।",
+    "topic": "food",
+    "subtopic": "shopping",
+    "tense": "simple_future",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0990",
+    "sentence": "আপনি কোন স্মার্টফোন অ্যাপগুলি সবচেয়ে বেশি ব্যবহার করেন?",
+    "gloss": "আপনার ফোন ভিতর এ্যাপ অনেক কোনটা বেশি কাজ হয়?",
+    "topic": "technology",
+    "subtopic": "smartphone_apps",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0991",
+    "sentence": "টিকিট কালোবাজারী দালালকে পুলিশ ধরে নিল।",
+    "gloss": "টিকেট জাল বিক্রি দালাল মানুষ তাকে পুলিশ ধরিয়ে দাও।",
+    "topic": "crime",
+    "subtopic": "black_market_ticket",
+    "tense": "simple_past",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0992",
+    "sentence": "আমার ফোনের স্ক্রিনে আঁচড় পড়েছে, তাই রিপেয়ার সেন্টারে নিয়ে যাব।",
+    "gloss": "আমার ফোন স্ক্রিন এখানে আচর তাই রিপেয়ার জন্য দোকান ওখানে  নিয়ে যাওয়া হবে।",
+    "topic": "technology",
+    "subtopic": "mobile_phone_repair",
+    "tense": "simple_future",
+    "type": "compound",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0993",
+    "sentence": "আমি মাছ ধরতে এবং জলের ধারে সময় কাটাতে ভালোবাসি।",
+    "gloss": "আমি মাছ ধরা এবং জল পাশে সময় কাটানো ভালোবাসি।",
+    "topic": "tourism",
+    "subtopic": "fishing and leisure",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0994",
+    "sentence": "জীববৈচিত্র্য ধ্বংস মানেই প্রাকৃতিক ভারসাম্য নষ্ট।",
+    "gloss": "জীববৈচিত্র্য ধ্বংস পরে প্রাকৃতিক পরিবেশ নষ্ট হবে।",
+    "topic": "natural_disasters",
+    "subtopic": "environmental_impact",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0995",
+    "sentence": "আমার ছোট বোন এবার প্লে-গ্রুপে ভর্তি হচ্ছে।",
+    "gloss": "আমার ছোট বোন ও এবার পড়া প্লে ভর্তি হচ্ছে।",
+    "topic": "education",
+    "subtopic": "school_admission",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0996",
+    "sentence": "এই বেগুনি রঙের বাঁধাকপিগুলো দেখতে খুব সুন্দর।",
+    "gloss": "এই বেগুনি রং বাঁধাকপি দেখা অনেক সুন্দর।",
+    "topic": "animal",
+    "subtopic": "plants",
+    "tense": "simple_present",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  },
+  {
+    "id": "bsgp-h-0997",
+    "sentence": "পরিবেশ রক্ষায় স্কুলে স্কুলে সচেতনতা কার্যক্রম চালানো হচ্ছে।",
+    "gloss": "পরিবেশ রক্ষার জন্য স্কুল স্কুল সচেতনতা কাজ এখন বলা।",
+    "topic": "education",
+    "subtopic": "environmental_awareness_program",
+    "tense": "present_continuous",
+    "type": "simple",
+    "generation_type": "human_annotation"
+  }
+]

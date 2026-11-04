@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+title: "Bangla-SGP: a Bangla sentence–gloss pair dataset for Bangla Sign Language translation and research"
+type: dataset
+authors:
+  - family-names: Saha
+    given-names: Neelavro
+    email: neelavro.saha@g.bracu.ac.bd
+  - family-names: Shahriyar
+    given-names: Rafi
+    email: rafi.shahriyar@g.bracu.ac.bd
+  - family-names: Roudra
+    given-names: Nafis Ashraf
+    email: nafis.ashraf@g.bracu.ac.bd
+  - family-names: Sakib
+    given-names: Saadman
+    email: saadman.sakib1@g.bracu.ac.bd
+  - family-names: Rasel
+    given-names: Annajiat Alim
+    email: annajiat@bracu.ac.bd
+abstract: >-
+  Bangla-SGP is a parallel dataset of human-annotated and rule-augmented
+  Bangla sentence–gloss pairs for Bangla Sign Language (BdSL) translation
+  research. It contains approximately 1,000 human-annotated pairs
+  (released as 997 rows across train/validation/test splits, annotated by a
+  professional signer) and 3,000 synthetically generated pairs produced with
+  rule-based morphological transformation, masked-token substitution, and a
+  rule-based Retrieval-Augmented Generation pipeline.
+keywords:
+  - Bangla
+  - Bangla Sign Language
+  - BdSL
+  - gloss
+  - data augmentation
+  - low-resource NLP
+license: CC-BY-4.0
+doi: 10.63317/38qenrwzegr9
+version: 1.0.0
+date-released: "2026-11-05"
+url: "https://github.com/OpenCR-lab/bangla-sgp"
+repository-code: "https://github.com/OpenCR-lab/bangla-sgp"
+references:
+  - type: proceedings-article
+    title: "Introducing A Bangla Sentence – Gloss Pair Dataset for Bangla Sign Language Translation and Research"
+    authors:
+      - family-names: Saha
+        given-names: Neelavro
+      - family-names: Shahriyar
+        given-names: Rafi
+      - family-names: Roudra
+        given-names: Nafis Ashraf
+      - family-names: Sakib
+        given-names: Saadman
+      - family-names: Rasel
+        given-names: Annajiat Alim
+    year: "2026"
+    journal: "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)"
+    pages: "10457–10466"
+    publisher:
+      name: "European Language Resources Association (ELRA)"
+    doi: 10.63317/38qenrwzegr9
+    url: "https://lrec.elra.info/lrec2026-main-820"
