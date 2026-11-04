@@ -100,10 +100,10 @@ transformations" (§3.2.1). If you extend the dataset in your own project:
 
 ## 5. What this release does not include
 
-- The full compiled rule inventory beyond the published rule categories — the
-  tense-specific decomposition used inside the two-stage prompting pipeline is
-  documented here and in the prompt file only up to what the paper and the
-  experiment material expose (flagged to the authors for a v1.1 decision).
+- The full compiled rule inventory beyond the published rule categories —
+  this page and the prompt file document what the paper and the generation
+  material exposed at publication; additional categories may follow in a
+  later release.
 - Tense categories not induced by the 7 rule families — the released data also
   contains rows labelled `past_perfect`, `future_continuous` and
   `present_perfect_continuous` — see `dataset-statistics.md` for exact counts

@@ -38,4 +38,4 @@ The RAG two-stage prompting flow (published pipeline):
 | Paper landing page (PDF, poster, video) | <https://lrec.elra.info/lrec2026-main-820> |
 | Poster presentation video | <https://f003.backblazeb2.com/file/lrec-media/lrec2026/videos/498.mp4> |
 | Paper pages | 10457–10466, Proceedings of LREC 2026, ELRA |
-| Talk / slides | Not available for this release (flagged) |
+| Talk / slides | Not available for this release |

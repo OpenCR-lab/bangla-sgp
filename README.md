@@ -44,7 +44,6 @@ included in the repository."* — This repository is that release.
 | Artifact | Where | Notes |
 |---|---|---|
 | Dataset (canonical, with stable IDs) | [`data/`](data/README.md) | 997 human-annotated + 3,000 synthetic rows |
-| Untouched distributed archive | `data/raw/` | byte-identical to the original files |
 | Compiled translation rules (prompt form) | [`docs/prompts/translation-rules-prompt.md`](docs/prompts/translation-rules-prompt.md) | verbatim |
 | Linguistic rules & conventions | [`docs/linguistic-rules.md`](docs/linguistic-rules.md), [`docs/glossing-conventions.md`](docs/glossing-conventions.md) | text-to-gloss rule families, signed-order phenomena |
 | Augmentation methods documentation | [`docs/augmentation-methods.md`](docs/augmentation-methods.md) | three methods, pipeline parameters, validation |
@@ -53,7 +52,6 @@ included in the repository."* — This repository is that release.
 | Dataset statistics | [`docs/dataset-statistics.md`](docs/dataset-statistics.md) | counts computed from the released files |
 | Error analysis | [`docs/error-analysis.md`](docs/error-analysis.md) | model failure patterns (paper Table 4) |
 | Figures & poster | [`docs/figures/`](docs/figures/), [`docs/poster.md`](docs/poster.md) | paper Figures 1–4, poster renders |
-| ID assignment script | [`scripts/assign_ids.py`](scripts/assign_ids.py) | regenerates canonical data from raw deterministically |
 | Hugging Face dataset card | [`hf/README.md`](hf/README.md) | ready for the [OpenCR-lab HF org](https://huggingface.co/OpenCR-lab) |
 
 ## Data at a glance
@@ -90,7 +88,8 @@ train = json.load(open("data/human/train.json", encoding="utf-8"))
 
 Row format and the stable-ID scheme (`bsgp-h-####` / `bsgp-m-####` /
 `bsgp-c-####` / `bsgp-r-####`) are documented in [`data/README.md`](data/README.md) and
-[the glossing conventions](docs/glossing-conventions.md).
+[the glossing conventions](docs/glossing-conventions.md). IDs were assigned
+once at release and are frozen: existing IDs never change or get recycled.
 
 ## Results (paper Tables 2 and 3)
 
@@ -162,9 +161,6 @@ The Bangla-SGP team:
 | Saadman Sakib | Dept. of CSE, BRAC University |
 | Annajiat Alim Rasel | Dept. of CSE, BRAC University |
 
-<!-- TODO(author-github-handles): fill in per-author GitHub profile links,
-     per the org structure file convention of linking people, before push. -->
-
 Individual CRediT contribution roles will be recorded in line with the
 authors' own contribution statements (CRediT taxonomy; see CITATION.cff for
 the citation record).
@@ -213,14 +209,13 @@ it under "Cite this repository").
 
 ## Status & roadmap
 
-- **Released (v1.0.0):** dataset with stable IDs, untouched raw archive,
-  the full rule-embedded prompt, linguistic documentation, annotation
-  protocol, datasheet, statistics, error analysis, figures/poster renders,
-  HF dataset card.
-- **Not part of this release (flagged):** training/evaluation code for the
-  reported models, the masking and generation driver scripts, and
-  GPT-4.1-nano weights (closed-API model). If your research needs any of
-  these, please contact us — see the paper for full methodology details.
+- **Released (v1.0.0):** dataset with stable IDs, the full rule-embedded
+  prompt, linguistic documentation, annotation protocol, datasheet,
+  statistics, error analysis, figures/poster renders, HF dataset card.
+- **Not part of this release:** training/evaluation code for the reported
+  models, the masking and generation driver scripts, and GPT-4.1-nano
+  weights (closed-API model). Please contact us if your research needs any
+  of these; the paper describes the full methodology.
 - **Phase 2 (paper §7.2):** synchronized sign video collection and
   non-manual marker annotation with multiple signers; a continuous
   3D signing pipeline built on the gloss layer.

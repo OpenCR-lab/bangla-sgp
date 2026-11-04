@@ -1,8 +1,8 @@
 # Dataset statistics
 
-Every number on this page is computed directly from the released files
-(`scripts/assign_ids.py` output) — not transcribed from the paper. Where the
-paper and the files differ, both are given (see §6).
+Every number on this page is computed directly from the released files —
+not transcribed from the paper. Where the paper and the files differ, both
+are given (see §6).
 
 ## 1. Zones and splits
 
@@ -78,8 +78,8 @@ Notes:
 
 ## 6. Data observations worth knowing
 
-Honest oddities we verified in the released data, so that downstream users
-are not surprised:
+Verified oddities in the released data, stated so that downstream users are
+not surprised:
 
 1. **997 vs 1,000.** The paper's headline "1,000 human-annotated pairs" is
    close-but-not-equal to the 997 rows in the distributed files
@@ -87,17 +87,16 @@ are not surprised:
    3,997 total. If you cite the dataset, the released counts are the safest
    ones.
 2. **Repeated sentence strings.** 990 distinct `sentence` strings cover the
-   997 human-annotated rows; seven sentence strings appear more than once
-   (each occurrence is a distinct row with its own ID — the pairs are not
-   identical duplicates of each other as rows, but the underlying sentence
-   string recurs; during construction these may reflect different sentence
-   sources/topic contexts).
+   997 human-annotated rows: seven sentence strings appear more than once
+   (possibly from overlapping source corpora at collection time). Each
+   occurrence is a distinct row with its own ID.
 3. **Repeated synthetic pairs.** Of the 3,000 synthetic rows, three
    (sentence, gloss) combinations appear twice (as distinct rows with
    distinct IDs).
 4. **Method counts vs "around 500".** `context_aug` released 383 rows against
-   the paper's "around 500" phrasing; `morph_aug` is 498. If you need the
-   authoritative reconciliation, contact the maintainers.
+   the paper's "around 500" phrasing; `morph_aug` is 498. For the
+   authoritative reconciliation, please contact the maintainers (README
+   contact section).
 
 For file formats, label vocabularies and stable IDs, see
 [data/README.md](../data/README.md) and

@@ -80,8 +80,8 @@ From the paper's ethical statement (§7.3):
 - The dataset contains no recordings of the signers and no personal data
   beyond the professional names above.
 - Compensation arrangements for the signers are not published with the
-  dataset; they are internal to the team's agreements (flagged here for
-  transparency; see DATASHEET.md, section "Annotator compensation").
+  dataset; they are internal to the team's agreements (see DATASHEET.md,
+  section "Annotator compensation").
 
 ## 5. If you re-annotate
 

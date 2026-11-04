@@ -90,9 +90,9 @@ signers aware that the data would be used for academic research purposes.
 - Punctuation follows the sentence sources; we do not re-normalise dots vs.
   the Bangla danda (।) between fields — rows carry whatever their creation
   pipeline produced.
-- ID assignment (`scripts/assign_ids.py`) is the only transformation applied
-  for this release: a stable row ID is prepended; all field values are
-  byte-identical to the distributed archive (`data/raw/`).
+- The only transformation applied for this release is the stable row `id`
+  prepended to each row; all field values are byte-identical to the
+  originally distributed archive.
 - No rows were removed, deduplicated or edited for release.
 
 ## 5. Uses and limits
@@ -135,10 +135,8 @@ the paper's §7.2 and would be a new release generation of this project.
 ## 7. Annotator compensation
 
 Compensation arrangements for the professional signers are internal to the
-team and **not published** with the dataset. The credit and consent details
+team and not published with the dataset. The credit and consent details
 that are public are recorded above and in the README's acknowledgements.
-(This is explicitly flagged rather than omitted so that the datasheet does
-not imply undisclosed facts either way.)
 
 ## 8. Crediting the signers
 

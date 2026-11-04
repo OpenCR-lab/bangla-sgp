@@ -9,9 +9,7 @@ data/
 │   └── train.json        797 human-annotated pairs (train split)
 ├── augmented/
 │   └── train.json        3,797 pairs = 797 human (train split) + 3,000 synthetic
-├── val.json              100 human-annotated pairs   (validation split, shared)
-├── test.json             100 human-annotated pairs   (test split, shared)
-└── raw/                  untouched copies of the distributed archive (no ids)
+└── val.json / test.json  100 human-annotated pairs each (shared splits)
 ```
 
 - The dataset in the paper is described as 1,000 human-annotated + ~3,000
@@ -19,8 +17,9 @@ data/
   human-annotated rows (797 + 100 + 100) and exactly 3,000 synthetic rows.
 - The human-annotated rows appear in both the `human` zone and the
   `augmented` training file; they carry the **same `id`** in both places.
-- IDs are assigned by `scripts/assign_ids.py` from `data/raw/` and are frozen
-  at release: existing IDs never change or get recycled.
+- IDs were assigned once at this release and are frozen: existing IDs never
+  change or get recycled. See `docs/glossing-conventions.md` for the exact
+  scheme.
 
 ## Row schema
 
@@ -80,5 +79,6 @@ human = load_dataset("OpenCR-lab/Bangla-SGP", "human")
 aug   = load_dataset("OpenCR-lab/Bangla-SGP", "augmented")
 ```
 
-See `hf/README.md` for the dataset card and `hf/UPLOAD.md` for how the HF
-repository mirrors this layout.
+See `hf/README.md` for the dataset card. The card's YAML declares two
+configs (`human`, default; `augmented`) that share the same validation and
+test files, so both load with the splits used for the paper's results.

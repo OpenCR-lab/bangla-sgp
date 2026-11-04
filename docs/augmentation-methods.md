@@ -112,9 +112,8 @@ text-to-gloss translation tasks (§3.3).
   presentation of the same numbers.
 - The rule set and prompt templates are published verbatim in
   [prompts/translation-rules-prompt.md](prompts/translation-rules-prompt.md).
-- **Not included in this release (flagged):** the BanglaBERT masking/inference
-  script, the retrieval/GPT generation driver, and the exact two-stage prompt
-  instances beyond the published templates. The archived experiment notebook
-  probes an earlier variant; per the maintainers' decision it is not part of
-  this release. If you need it for a reproduction, contact us
-  (see the README contact section).
+- Not included in this release: the BanglaBERT masking/inference script, the
+  retrieval/generation driver, and the exact two-stage prompt instances
+  beyond the published templates. The released prompt file is the
+  reproducible artifact for the generation side; contact the maintainers
+  (README contact section) if your reproduction needs more.

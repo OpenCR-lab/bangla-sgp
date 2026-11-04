@@ -96,8 +96,9 @@ sequence, Bangla script), `topic`, `subtopic`, `tense`, `type`,
    prompting with GPT-4.1-nano; published validation 75.3% validation rate,
    quality 3.19/5, binary κ = 0.7489.
 
-Full rules and prompt templates: the repository's `docs/prompts/` and
-`docs/linguistic-rules.md`. Datasheet: `DATASHEET.md`.
+Full rules and prompt templates: [`docs/prompts/translation-rules-prompt.md`](https://github.com/OpenCR-lab/bangla-sgp/blob/main/docs/prompts/translation-rules-prompt.md)
+and [`docs/linguistic-rules.md`](https://github.com/OpenCR-lab/bangla-sgp/blob/main/docs/linguistic-rules.md).
+Datasheet: [`DATASHEET.md`](https://github.com/OpenCR-lab/bangla-sgp/blob/main/DATASHEET.md).
 
 ## Results on this dataset (from the paper, Tables 2–3)
 
@@ -127,7 +128,9 @@ scores is not implied.
   informed consent (paper §7.3).
 - Counts: paper round-phrases are "1,000 / ~3,000 / 4,000"; the released
   files carry 997 / 3,000 / 3,997 rows. Seven human sentence strings recur;
-  three synthetic pairs repeat (see repository `docs/dataset-statistics.md` §6).
+  three synthetic pairs repeat
+  ([details](https://github.com/OpenCR-lab/bangla-sgp/blob/main/docs/dataset-statistics.md),
+  §6).
 
 ## Licence
 

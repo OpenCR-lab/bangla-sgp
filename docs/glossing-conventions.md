@@ -91,7 +91,7 @@ wrapper token; the decomposition is plain text in `gloss`.
 
 ## 5. Stable row IDs
 
-`id` is added at release by `scripts/assign_ids.py`. Format:
+`id` is added at this release. Format:
 
 - `bsgp-h-0001` … `bsgp-h-0997`: human-annotated rows, numbered across train
   (1–797), validation (798–897) and test (898–997) splits in file order.
