@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+message: "If you use the Bangla-SGP dataset, please cite the paper listed under preferred-citation."
 title: "Bangla-SGP: a Bangla sentence–gloss pair dataset for Bangla Sign Language translation and research"
 type: dataset
 authors:
@@ -38,24 +39,27 @@ version: 1.0.0
 date-released: "2026-11-05"
 url: "https://github.com/OpenCR-lab/bangla-sgp"
 repository-code: "https://github.com/OpenCR-lab/bangla-sgp"
-references:
-  - type: proceedings-article
-    title: "Introducing A Bangla Sentence – Gloss Pair Dataset for Bangla Sign Language Translation and Research"
-    authors:
-      - family-names: Saha
-        given-names: Neelavro
-      - family-names: Shahriyar
-        given-names: Rafi
-      - family-names: Roudra
-        given-names: Nafis Ashraf
-      - family-names: Sakib
-        given-names: Saadman
-      - family-names: Rasel
-        given-names: Annajiat Alim
-    year: "2026"
-    journal: "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)"
-    pages: "10457–10466"
-    publisher:
-      name: "European Language Resources Association (ELRA)"
-    doi: 10.63317/38qenrwzegr9
-    url: "https://lrec.elra.info/lrec2026-main-820"
+preferred-citation:
+  type: conference-paper
+  title: "Introducing A Bangla Sentence – Gloss Pair Dataset for Bangla Sign Language Translation and Research"
+  authors:
+    - family-names: Saha
+      given-names: Neelavro
+    - family-names: Shahriyar
+      given-names: Rafi
+    - family-names: Roudra
+      given-names: Nafis Ashraf
+    - family-names: Sakib
+      given-names: Saadman
+    - family-names: Rasel
+      given-names: Annajiat Alim
+  year: 2026
+  collection-title: "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)"
+  conference:
+    name: "LREC 2026"
+  start: 10457
+  end: 10466
+  publisher:
+    name: "European Language Resources Association (ELRA)"
+  doi: 10.63317/38qenrwzegr9
+  url: "https://lrec.elra.info/lrec2026-main-820"
