@@ -11,7 +11,7 @@ produced with them (paper §3.2.1).
 [prompts/translation-rules-prompt.md](prompts/translation-rules-prompt.md),
 reproduced verbatim from our generation material. This page is the same
 material reorganised as a reference. The paper is the authoritative
-description: ELMAR/LREC 2026, §3.2.1 and §7.1.
+description: LREC 2026, §3.2.1 and §7.1.
 
 ## 1. The three core principles
 
@@ -96,7 +96,7 @@ transformations" (§3.2.1). If you extend the dataset in your own project:
    them — our validation protocol is described in
    [annotation-protocol.md](annotation-protocol.md), and the rates we measured
    (75.3% validation on a synthetic sample, κ = 0.7489 binary agreement) set
-   the bar in the paper (§3.2.1).
+   the bar in the paper (§3.3).
 
 ## 5. What this release does not include
 
@@ -106,6 +106,7 @@ transformations" (§3.2.1). If you extend the dataset in your own project:
   later release.
 - Tense categories not induced by the 7 rule families — the released data also
   contains rows labelled `past_perfect`, `future_continuous` and
-  `present_perfect_continuous` — see `dataset-statistics.md` for exact counts
-  and the augmentation-methods page for how these were handled.
+  `present_perfect_continuous` — see [dataset-statistics.md](dataset-statistics.md) for exact counts.
+  The published rule categories do not cover these tenses, and the released
+  materials do not document how they were handled during generation.
 - Sign-level (video) information; the dataset is text-only by design.
